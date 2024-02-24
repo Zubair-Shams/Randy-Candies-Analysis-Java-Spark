@@ -1,4 +1,4 @@
-**You're tasked with creating a web application for Randy's Candies, a local candy store in Chicago. Randy, the owner, wants the application to do three things:**
+**Creating a web application for Randy's Candies, a local candy store in Chicago. Randy, the owner, wants the application to do three things:**
 
 1. Display items that are almost out of stock (at less than 25% capacity)
 
